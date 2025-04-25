@@ -244,12 +244,10 @@
   {
     "name": "WatchGuard Technologies",
     "techStack": [
-      "Angular",
-      "Material",
-      "Nx"
+      "Angular",       "Oracle DB", "Mongo DB",
+      "NX"
     ],
     "careerSite": "https://www.watchguard.com/wgrd-careers",
-    "companySite": "https://www.watchguard.com",
     "workMode": "On-Site"
   }
 ]
