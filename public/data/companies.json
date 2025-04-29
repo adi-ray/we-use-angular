@@ -120,6 +120,7 @@
   },
   {
     "name": "SBS",
+    "contributor": "HimanshuGoel",
     "techStack": ["Angular"],
     "careerSite": "https://sbs-software.com/join-us/",
     "companySite": "https://sbs-software.com",
@@ -127,6 +128,7 @@
   },
   {
     "name": "Reliance Industries Ltd",
+    "contributor": "vamshi-ui",
     "techStack": ["Angular", "Node.js", "Azure DevOps", "MySQL", "MongoDB", ".NET"],
     "careerSite": "https://www.ril.com/careers",
     "workMode": "Work From Office",
@@ -135,6 +137,7 @@
   },
   {
     "name": "Henkel",
+    "contributor": "Muzummil",
     "techStack": ["Angular 19", "TypeScript", "Module Federation"],
     "careerSite": "https://www.henkel.com/careers",
     "workMode": "On-Site",
@@ -142,6 +145,7 @@
   },
   {
     "name": "Unit4",
+    "contributor": "KingsleyAmankwah",
     "techStack": ["Angular", "Node.js", "TypeScript", "JavaScript", "RxJs"],
     "careerSite": "https://careers.unit4.com/jobs?name=&location_country=All&department_id=8086448",
     "workMode": "Remote",
@@ -149,12 +153,14 @@
   },
   {
     "name": "Cloud Solutions International",
+    "contributor": "ansafans",
     "techStack": ["Angular", "Java", "Postgres DB", "Oracle DB", "Mongo DB", "NX"],
     "careerSite": "https://cloudsolutions.lk/join-us/#we-are-hiring-section",
     "workMode": "Hybrid"
   },
   {
     "name": "WatchGuard Technologies",
+    "contributor": "AyushiRohela",
     "techStack": ["Angular", "Material", "Nx"],
     "careerSite": "https://www.watchguard.com/wgrd-careers",
     "companySite": "https://www.watchguard.com",
@@ -162,6 +168,7 @@
   },
   {
     "name": "Keka HR",
+    "contributor": "ajitzero",
     "techStack": ["Angular", ".NET Core", "C#"],
     "careerSite": "https://www.keka.com/careers",
     "companySite": "https://www.keka.com/",
@@ -169,6 +176,7 @@
   },
   {
     "name": "Fortinet",
+    "contributor": "ajitzero",
     "techStack": ["Angular", "Nx", "Python", "Django", "Java", "Golang"],
     "careerSite": "https://www.fortinet.com/corporate/careers",
     "companySite": "https://www.fortinet.com/",
@@ -176,6 +184,7 @@
   },
   {
     "name": "Commudle",
+    "contributor": "ArshdeepGrover",
     "techStack": [
       "Angular",
       "Ruby",
